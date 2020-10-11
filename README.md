@@ -10,5 +10,5 @@ It helps in registering a User with first name, last name, date of birth and Add
 
 ## How to run?
 - Download the project from git.
-- Load the project in eclipse(Edit the information in [UserConfiguration.class](https://github.com/DhwaniSondhi/UserRegistration/blob/master/src/main/java/org/practice/UserRegistration/UserConfiguration.java) if you want to).
+- Load the project in eclipse(If needed, you can edit the information in [UserConfiguration.class](https://github.com/DhwaniSondhi/UserRegistration/blob/master/src/main/java/org/practice/UserRegistration/UserConfiguration.java)).
 - Run the project(You can see the output in the console).
