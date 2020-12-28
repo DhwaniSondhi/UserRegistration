@@ -1,8 +1,8 @@
 # UserRegistration
 This project was created to learn and practice the basics of [spring-core](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html). It uses Annotation-based configuration.
-It helps in registering a User with first name, last name, date of birth and Address.
+It helps in registering a User with first name, last name, date of birth, and address.
 
-## Prerequites
+## Prerequisites
 - Java 8
 - Eclipse IDE
 - GIT
